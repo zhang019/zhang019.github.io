@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Psychiatry and Mental Health at the [Peking Univeristy Sixth Hospital](https://www.pkuh6.cn/), [Peking University Health Science Center](https://www.bjmu.edu.cn/index.htm). I am fortunate to be advised by [Professor Lu Liu](https://www.pkuh6.cn/Html/Doctors/Main/Index_219.html?WebVisitShield=dZr4Kz5OIC8dKJj9j4xU). My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
+I am a first-year Ph.D. student in Psychiatry and Mental Health at the [Peking Univeristy Sixth Hospital](https://www.pkuh6.cn/), [Peking University Health Science Center](https://www.bjmu.edu.cn/index.htm). I am fortunate to be advised by [Professor Lu Liu](https://www.pkuh6.cn/Html/Doctors/Main/Index_219.html?WebVisitShield=dZr4Kz5OIC8dKJj9j4xU). My research focuses on ADHD in both children and adults, investigating disease mechanisms and clinical translation across multiple levels, from genes to neuroimaging and ultimately to clinical phenotypes.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
