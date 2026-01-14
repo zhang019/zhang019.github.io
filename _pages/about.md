@@ -11,4 +11,4 @@ I am a first-year Ph.D. student in Psychiatry and Mental Health at the [Peking U
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](2511110671@stu.pku.edu.cn) / [Github](https://github.com/zhang019/zhang019.github.io) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:2511110671@stu.pku.edu.cn) / [Github](https://github.com/zhang019/zhang019.github.io) / [Wechat](../images/wechat.jpg) 
