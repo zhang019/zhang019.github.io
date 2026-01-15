@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D. (Direct-Track) in Psychiatry and Mental Health, Peking University Sixth Hospital, 2025–Present
+* B.M. in Clinical Medicine (Five-year Program), Sun Yat-sen University, 2020–2025
+* Senior High School, Hefei No.1 High School, 2017–2020
+* Junior High School, Hefei No.50 Middle School (West Campus), 2014–2017
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2023 – Apr 2024: Clinical Trainee
+  * The Seventh Affiliated Hospital, Sun Yat-sen University
+  * Duties included: Clinical observation and participation in psychiatric and general medical practice
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 – Nov 2024: Clinical Intern
+  * Shenzhen Second People’s Hospital
+  * Duties included: Rotations in multiple clinical departments, patient assessment, and clinical documentation
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2024 – May 2025: Clinical Intern
+  * The First Affiliated Hospital, Sun Yat-sen University
+  * Duties included: Rotations in multiple clinical departments, patient assessment, and clinical documentation
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* English Proficiency
+  * CET-6: 639
+  * Fluent in listening, speaking, reading, and writing; proficient in academic communication
+* Tools & Technical Skills
+  * Proficient in SPSS, R, MATLAB, and Microsoft Office
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
