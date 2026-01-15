@@ -1,13 +1,18 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Association between immune cells and allergic purpura: a Mendelian randomization study"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-04-10-immune-cells-allergic-purpura-mr
+excerpt: "This Mendelian randomization study investigates the causal effects of immune cell phenotypes on the risk of allergic purpura."
+date: 2025-04-10
+venue: "Italian Journal of Pediatrics"
+paperurl: "https://doi.org/10.1186/s13052-025-01847-6"
+bibtexurl: "https://academicpages.github.io/files/bibtex1.bib"  # 可后续替换为你自己的 BibTeX
+citation: >
+  Xian W#, Zhang H#, Zeng H. (2025).
+  “Association between immune cells and allergic purpura: a Mendelian randomization study.”
+  <i>Italian Journal of Pediatrics</i>, 51(1):112.
 ---
+
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
